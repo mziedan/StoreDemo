@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Store Demo</string>
+
+    <string name="title_activity_splash">Store Demo</string>
+    <string name="get_started_btn">Get Started</string>
+</resources>
